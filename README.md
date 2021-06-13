@@ -29,7 +29,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
    <a href="https://php.net" target="_blank"> <img src="https://camo.githubusercontent.com/e11022e0d4dd973f0dd7adbf606ed6e5f13074375bb2665a7066cb383b7fd158/687474703a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4735302e706e67" alt="mongodb" width="48" height="48"/> </a>\
-     <a href="https://wordpress.org" target="_blank"> <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="wordpress" width="48" height="48"/> </a>
+     <a href="https://wordpress.org" target="_blank"> <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="wordpress" width="70" height="50"/> </a>
     
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     
