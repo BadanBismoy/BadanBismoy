@@ -68,7 +68,8 @@
 <a href = "https://www.linkedin.com/in/badan-bismoy-1a8590200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/bishal06038525r"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/bismoy_333/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/bismoy.saha.54"><img src="https://i.pinimg.com/736x/91/4d/e6/914de662ac57138cda4a401ff37b444e.jpg"/></a>
+    <a href="https://www.facebook.com/bismoy.saha.54" target="_blank"> <img src="https://i.pinimg.com/736x/91/4d/e6/914de662ac57138cda4a401ff37b444e.jpg" alt="facebook" width="48" height="48"/> </a>
+
 
 </p>
 
