@@ -28,7 +28,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://php.net" target="_blank"> <img src="http://pngimg.com/uploads/php/php_PNG50.png"/> </a> 
+    <a href="https://php.net" target="_blank"> width="48" height="48" <img src="http://pngimg.com/uploads/php/php_PNG50.png"/> </a> 
     <a style="padding-right:8px;" href="https://wordpress.org" target="_blank"> <img src="https://www.iconspng.com/images/wordpress-logo.jpg"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> -->
